@@ -21,6 +21,12 @@ function App() {
       description: 'A simple calculator application demonstrating JavaScript logic, DOM manipulation, and user interaction.',
       link: 'https://github.com/AshB4/calculate-codex-proj',
       tech: ['HTML', 'CSS', 'JavaScript']
+    },
+    {
+      title: 'YodaBot Codex W6D1',
+      description: 'Interactive Yoda-themed chatbot project showcasing advanced JavaScript concepts and user interaction patterns.',
+      link: 'https://github.com/AshB4/YodaBot-Codex-W6D1',
+      tech: ['HTML', 'CSS', 'JavaScript']
     }
   ]
 
